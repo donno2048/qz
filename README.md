@@ -1,0 +1,4 @@
+```py
+>>> D()
+Hello, World!
+```
